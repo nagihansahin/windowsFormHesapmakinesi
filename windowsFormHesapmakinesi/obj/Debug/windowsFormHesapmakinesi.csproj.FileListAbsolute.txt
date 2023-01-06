@@ -1,0 +1,11 @@
+C:\Users\nagih\source\repos\windowsFormHesapmakinesi\windowsFormHesapmakinesi\obj\Debug\windowsFormHesapmakinesi.csproj.AssemblyReference.cache
+C:\Users\nagih\source\repos\windowsFormHesapmakinesi\windowsFormHesapmakinesi\obj\Debug\windowsFormHesapmakinesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\nagih\source\repos\windowsFormHesapmakinesi\windowsFormHesapmakinesi\obj\Debug\windowsFormHesapmakinesi.Form1.resources
+C:\Users\nagih\source\repos\windowsFormHesapmakinesi\windowsFormHesapmakinesi\obj\Debug\windowsFormHesapmakinesi.Properties.Resources.resources
+C:\Users\nagih\source\repos\windowsFormHesapmakinesi\windowsFormHesapmakinesi\obj\Debug\windowsFormHesapmakinesi.csproj.GenerateResource.cache
+C:\Users\nagih\source\repos\windowsFormHesapmakinesi\windowsFormHesapmakinesi\obj\Debug\windowsFormHesapmakinesi.csproj.CoreCompileInputs.cache
+C:\Users\nagih\source\repos\windowsFormHesapmakinesi\windowsFormHesapmakinesi\bin\Debug\windowsFormHesapmakinesi.exe.config
+C:\Users\nagih\source\repos\windowsFormHesapmakinesi\windowsFormHesapmakinesi\bin\Debug\windowsFormHesapmakinesi.exe
+C:\Users\nagih\source\repos\windowsFormHesapmakinesi\windowsFormHesapmakinesi\bin\Debug\windowsFormHesapmakinesi.pdb
+C:\Users\nagih\source\repos\windowsFormHesapmakinesi\windowsFormHesapmakinesi\obj\Debug\windowsFormHesapmakinesi.exe
+C:\Users\nagih\source\repos\windowsFormHesapmakinesi\windowsFormHesapmakinesi\obj\Debug\windowsFormHesapmakinesi.pdb
